@@ -2,8 +2,9 @@ Amirreza Hosseinzadeh . AI
 
 Hello again! I'm practice git!
 
-another line of text 
 
 Hello darling!
 
 x == 3?
+
+sono stanco oggi!
