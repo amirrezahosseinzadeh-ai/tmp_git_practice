@@ -7,3 +7,6 @@ print("Devo bere caffe oggi")
 print("Its a good day fratello!")
 
 print("How to use git commit --amend?")
+
+
+print("it was hard but golden!")
