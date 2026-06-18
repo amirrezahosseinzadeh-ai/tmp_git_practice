@@ -20,3 +20,13 @@ def new_func(a, b):
         print("a is equal to b!")
     else:
         print("Error!")
+
+
+
+class Student:
+    def __init__(self, name, grade):
+        self.name = name
+        self.grade = grade
+
+    def info():
+        print(f"name: {Student.name}, grade: {Student.grade}")

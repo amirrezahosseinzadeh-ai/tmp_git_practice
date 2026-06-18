@@ -8,8 +8,3 @@ def sum(a, b):
 def mul(a, b):
     pass
 
-def div(a, b):
-    pass
-
-def sub(a, b):
-    pass
