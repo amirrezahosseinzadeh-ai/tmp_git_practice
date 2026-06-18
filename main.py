@@ -14,3 +14,9 @@ def func(a, b):
         return
 
 print("Hello world!")
+
+def new_func(a, b):
+    if a == b:
+        print("a is equal to b!")
+    else:
+        print("Error!")
