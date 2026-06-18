@@ -13,3 +13,4 @@ def func(a, b):
     else:
         return
 
+print("Hello world!")
