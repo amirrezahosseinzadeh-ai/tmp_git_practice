@@ -20,3 +20,6 @@ def new_func(a, b):
         print("a is equal to b!")
     else:
         print("Error!")
+
+
+        print("THAT is AWSOME")
