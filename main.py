@@ -22,7 +22,6 @@ def new_func(a, b):
         print("Error!")
 
 
-<<<<<<< HEAD
 
 class Student:
     def __init__(self, name, grade):
@@ -31,6 +30,4 @@ class Student:
 
     def info():
         print(f"name: {Student.name}, grade: {Student.grade}")
-=======
         print("THAT is AWSOME")
->>>>>>> iss62
