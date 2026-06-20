@@ -13,21 +13,6 @@ def func(a, b):
     else:
         return
 
-print("Hello world!")
-
-def new_func(a, b):
-    if a == b:
-        print("a is equal to b!")
-    else:
-        print("Error!")
-
-
-
 class Student:
-    def __init__(self, name, grade):
-        self.name = name
-        self.grade = grade
-
-    def info():
-        print(f"name: {Student.name}, grade: {Student.grade}")
-        print("THAT is AWSOME")
+    def __init__(self):
+        pass
