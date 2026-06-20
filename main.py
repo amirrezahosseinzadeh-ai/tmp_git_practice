@@ -21,3 +21,14 @@ class Car:
     def __init__(self, color, model):
         self.color = color
         self.model = model
+print("Hello world!")
+
+def new_func(a, b):
+    if a == b:
+        print("a is equal to b!")
+    else:
+        print("Error!")
+
+
+def func_1():
+    pass
