@@ -16,3 +16,8 @@ def func(a, b):
 class Student:
     def __init__(self):
         pass
+
+class Car:
+    def __init__(self, color, model):
+        self.color = color
+        self.model = model
