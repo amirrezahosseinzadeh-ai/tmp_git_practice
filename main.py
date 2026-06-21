@@ -13,3 +13,18 @@ def func(a, b):
     else:
         return
 
+class Student:
+    def __init__(self):
+        pass
+
+class Car:
+    def __init__(self, color, model):
+        self.color = color
+        self.model = model
+print("Hello world!")
+
+def fun(c, d):
+    if c >= d:
+        print("C is greater than D")
+    else:
+        pass
