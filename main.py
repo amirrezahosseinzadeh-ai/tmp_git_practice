@@ -32,3 +32,6 @@ def new_func(a, b):
 
 def func_1():
     pass
+
+
+print("John Doe")
