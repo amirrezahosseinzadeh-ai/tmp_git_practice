@@ -23,15 +23,8 @@ class Car:
         self.model = model
 print("Hello world!")
 
-def new_func(a, b):
-    if a == b:
-        print("a is equal to b!")
+def fun(c, d):
+    if c >= d:
+        print("C is greater than D")
     else:
-        print("Error!")
-
-
-def func_1():
-    pass
-
-
-print("John Doe")
+        pass
