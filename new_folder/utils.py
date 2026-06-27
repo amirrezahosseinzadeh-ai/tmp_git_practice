@@ -15,9 +15,5 @@ def sub(a, b):
     pass
 
 
-f"is it even real?"
-
-f"is it even real?"
-f"is it even real?"
-f"is it even real?"
-f"is it even real?"
+def sokhanan_bozorgan():
+    return 'Sokhani az yek bozorg'
