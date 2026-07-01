@@ -28,3 +28,7 @@ def fun(c, d):
         print("C is greater than D")
     else:
         pass
+
+
+def mindset(attention):
+    return f"Change your {attention} change your mindset!"
